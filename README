@@ -1,0 +1,7 @@
+Spring Boot API
+Maven
+MySQL
+
+In app.properties, mention the MySQL database name (Schema name). here in this example scheman name is java
+
+Create table in MySQL and then use it via these API's
